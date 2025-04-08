@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Accessibility service boilerplate</string>
-    <string name="go_to_accessibility_settings">Go to accessibility settings</string>
+    <string name="accessibility_service_label">Accessibility Service Name</string>
+    <string name="accessibility_service_description">description</string>
 </resources>
